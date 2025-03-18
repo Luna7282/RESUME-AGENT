@@ -1,8 +1,4 @@
-# Project Name
-
-A brief description of your project goes here.
-
-## Steps to Run the Project
+# Steps to Run the Project
 
 Follow these steps to set up and run the project:
 
