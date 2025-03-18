@@ -1,4 +1,4 @@
-#steps to run the project 
+steps to run the project
 Run the following command:
 1 .python -m venv myenv
 2. pip install -r requirements.txt (windows)
